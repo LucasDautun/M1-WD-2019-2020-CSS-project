@@ -1,20 +1,28 @@
+* {
+  text-decoration: none !important;
+
+}
+
 body {
-  background: pink;
+  background: rgba(247, 248, 249,);
+font-family: 'Open Sans', sans-serif;
 }
 
 section {
-  border-bottom: 2px solid red;
+  border-bottom: 2px solid rgba(247, 248, 249,);
   min-height: 65vh;
 }
 
 #main-menu {
-  background: rgba(255, 50, 27, 0.7);
+  background: rgba(72, 112, 237, 0.7);
   height: 100%;
   width: 320px;
   position: absolute;
   top: 0;
   left: -320px;
   transition: 1s all ease;
+  color : white;
+
 }
 
 #main-menu:target {

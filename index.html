@@ -1,33 +1,39 @@
 <!DOCTYPE html>
+
 <html lang="en" dir="ltr">
-  <head>
+<head>
     <meta charset="utf-8">
-    <title>this is the first page web</title>
-    <link rel="stylesheet" href="styles/master.css">
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,600;1,300&display=swap" rel="stylesheet">
-  </head>
-  <body>
-    <h1>hello world wides web</h1>
+    <title>This is the first web page</title>
+    <link rel="stylesheet" href="master.css">
+    <link href="https://fonts.googleapis.com/css2?family=Muli:wght@600&display=swap" rel="stylesheet">
+</head>
 
-    <head>
-      <a href="#main-menu">Open menu</a>
-      <nav id="main-menu">
-        <a href="#">Close menu</a>
-        <ul>
-          <li><a href=#Section1>Section 1</a></li>
-          <li><a href=#Section2>Section 2</a></li>
-        </ul>
+<div id="wrap">
 
-      </nav>
-    </head>
+  <header class="header">
+     <nav class="nav">
+      <a href="#wrap" id="open">
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="34px" height="27px" viewBox="0 0 34 27" enable-background="new 0 0 34 27" xml:space="preserve">
+<rect fill="#FFFFFF" width="34" height="4"/>
+<rect y="11" fill="#FFFFFF" width="34" height="4"/>
+<rect y="23" fill="#FFFFFF" width="34" height="4"/>
+</svg>
+  <a href="#" class="close-menu">Close Menu</a>
+  <ul>
+   <li><a href="#section01">Go to section 01</a></li>
+   <li><a href="#section02">Go to section 02</a></li>
+  </ul>
+    </nav>
+   </header>
 
-    <section id="Section1">
-      <p>this is a section 1</p>
-    </section>
+  <main class="main">
+      <h1 class="Titre1">Hello World wide web</h1>
+      <section id="section01">
+        <p>This is section 1</p>
+      </section>
+      <section id="section02">
+        <p>This is section 2</p>
+      </section>
+  </main>
 
-    <section id="Section2">
-      <p>this a section 2</p>
-    </section>
-
-  </body>
-</html>
+</div>

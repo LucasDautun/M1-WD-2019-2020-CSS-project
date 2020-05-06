@@ -1,119 +1,196 @@
 <!DOCTYPE html>
-
 <html lang="en" dir="ltr">
-<head>
-    <meta charset="utf-8">
-    <title>This is the first web page</title>
-    <link rel="stylesheet" href="styles/master.css">
-    <link href="https://fonts.googleapis.com/css2?family=Muli:wght@600&display=swap" rel="stylesheet">
-</head>
+    <head>
+      <meta charset="utf-8">
+      <title>This is the first web page</title>
+      <link rel="stylesheet" href="styles/master.css">
+      <link href="https://fonts.googleapis.com/css2?family=Muli:wght@600&display=swap" rel="stylesheet">
+    </head>
+    <body>
+      <div id="wrap">
+        <header class="header">
+          <nav class="nav">
+            <a href="#wrap" id="open">
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="34px" height="27px" viewBox="0 0 34 27" enable-background="new 0 0 34 27" xml:space="preserve">
+                <rect fill="#FFFFFF" width="34" height="4"/>
+                <rect y="11" fill="#FFFFFF" width="34" height="4"/>
+                <rect y="23" fill="#FFFFFF" width="34" height="4"/>
+              </svg>
+              <a href="#" id="close">x</a>
+              <ul>
+                <li><a href="#section01">Section 01</a></li>
+                <li><a href="#section02">Section 02</a></li>
+                <li><a href="#section03">Section 03</a></li>
+              </ul>
+          </nav>
+          <a href="#" class="backdrop"></a>
+        </header>
 
-<div id="wrap">
+        <main class="main">
+          <h1 class="Titre1">Hello World wide web</h1>
+          <section id="section01">
+            <p>This is section 1</p>
+            <figure class="Galaxy">
+              <img class="Etoiles" src="images/Etoiles.svg" alt="">
+              <img class="Death-star" src="images/Death-star.svg" alt="">
+              <img class="X-wing" src="images/X-wing.svg" alt="">
+              <img class="Chasseurs" src="images/Chasseurs.svg" alt="">
+              <img class="Faucon" src="images/Faucon.svg" alt="">
+              <img class="V-wing" src="images/V-wing.svg" alt="">
+           </figure>
+          </section>
 
-  <header class="header">
-     <nav class="nav">
-      <a href="#wrap" id="open">
-        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="34px" height="27px" viewBox="0 0 34 27" enable-background="new 0 0 34 27" xml:space="preserve">
-<rect fill="#FFFFFF" width="34" height="4"/>
-<rect y="11" fill="#FFFFFF" width="34" height="4"/>
-<rect y="23" fill="#FFFFFF" width="34" height="4"/>
-</svg>
-  <a href="#" id="close">x</a>
-  <ul>
-   <li><a href="#section01">Go to section 01</a></li>
-   <li><a href="#section02">Go to section 02</a></li>
-  </ul>
-    </nav>
-   </header>
 
-  <main class="main">
-      <h1 class="Titre1">Hello World Wide Web</h1>
-      <section id="section01">
-        <p>This is section 1</p>
-      </section>
-      <section id="section02">
-        <p>This is section 2</p>
-        <div class="container">
-          <article>
-            <span>A</span>
-          </article>
-          <article>
-            <span>B</span>
-          </article>
-          <article>
-            <span>C</span>
-          </article>
-          <article>
-            <span>D</span>
-          </article>
-          <article>
-            <span>E</span>
-          </article>
-          <article>
-            <span>F</span>
-          </article>
-          <article>
-            <span>G</span>
-          </article>
-          <article>
-            <span>H</span>
-          </article>
-          <article>
-            <span>I</span>
-          </article>
-          <article>
-            <span>J</span>
-          </article>
-          <article>
-            <span>K</span>
-          </article>
-          <article>
-            <span>L</span>
-          </article>
-          <article>
-            <span>M</span>
-          </article>
-          <article>
-            <span>N</span>
-          </article>
-          <article>
-            <span>O</span>
-          </article>
-          <article>
-            <span>P</span>
-          </article>
-          <article>
-            <span>Q</span>
-          </article>
-          <article>
-            <span>R</span>
-          </article>
-          <article>
-            <span>S</span>
-          </article>
-          <article>
-            <span>T</span>
-          </article>
-          <article>
-            <span>U</span>
-          </article>
-          <article>
-            <span>V</span>
-          </article>
-          <article>
-            <span>W</span>
-          </article>
-          <article>
-            <span>X</span>
-          </article>
-          <article>
-            <span>Y</span>
-          </article>
-          <article>
-            <span>Z</span>
-          </article>
-        </div>
-      </section>
-  </main>
 
-</div>
+          <section id="section02">
+            <a href="#section02">display flex</a>
+            <a href="#containerabc">display autre</a>
+
+            <p>This is section 2</p>
+            <h2>Abécédaire</h2>
+
+            <div id="containerabc">
+              <article>
+                <span>A</span>
+                <img src="images/Anakin.svg" alt="">
+                <p>Anakin</p>
+
+              </article>
+              <article>
+                <span>B</span>
+                <img src="images/BB8.svg" alt="">
+                <p>BB8</p>
+              </article>
+              <article>
+                <span>C</span>
+                <img src="images/C-3PO.svg" alt="">
+                <p>C-3PO</p>
+              </article>
+              <article>
+                <span>D</span>
+                <img src="images/Dark-Vador.svg" alt="">
+                <p>Dark Vador</p>
+              </article>
+              <article>
+                <span>E</span>
+                <img src="images/Ewok.svg" alt="">
+                <p>Ewok</p>
+              </article>
+              <article>
+                <span>F</span>
+                <img class="Loader" src="images/Loader.svg" alt="">
+                <p>Loading..</p>
+              </article>
+              <article>
+                <span>G</span>
+                <img class="Loader" src="images/Loader.svg" alt="">
+                <p>Loading..</p>
+              </article>
+              <article>
+                <span>H</span>
+                <img class="Loader" src="images/Loader.svg" alt="">
+                <p>Loading..</p>
+              </article>
+              <article>
+                <span>I</span>
+                <img class="Loader" src="images/Loader.svg" alt="">
+                <p>Loading..</p>
+              </article>
+              <article>
+                <span>J</span>
+                <img class="Loader" src="images/Loader.svg" alt="">
+                <p>Loading..</p>
+              </article>
+              <article>
+                <span>K</span>
+                <img class="Loader" src="images/Loader.svg" alt="">
+                <p>Loading..</p>
+              </article>
+              <article>
+                <span>L</span>
+                <img class="Loader" src="images/Loader.svg" alt="">
+                <p>Loading..</p>
+              </article>
+              <article>
+                <span>M</span>
+                <img class="Loader" src="images/Loader.svg" alt="">
+                <p>Loading..</p>
+              </article>
+              <article>
+                <span>N</span>
+                <img class="Loader" src="images/Loader.svg" alt="">
+                <p>Loading..</p>
+              </article>
+              <article>
+                <span>O</span>
+                <img class="Loader" src="images/Loader.svg" alt="">
+                <p>Loading..</p>
+              </article>
+              <article>
+                <span>P</span>
+                <img class="Loader" src="images/Loader.svg" alt="">
+                <p>Loading..</p>
+              </article>
+              <article>
+                <span>Q</span>
+                <img class="Loader" src="images/Loader.svg" alt="">
+                <p>Loading..</p>
+              </article>
+              <article>
+                <span>R</span>
+                <img class="Loader" src="images/Loader.svg" alt="">
+                <p>Loading..</p>
+              </article>
+              <article>
+                <span>S</span>
+                <<img class="Loader" src="images/Loader.svg" alt="">
+                <p>Loading..</p>
+              </article>
+              <article>
+                <span>T</span>
+                <img class="Loader" src="images/Loader.svg" alt="">
+                <p>Loading..</p>
+              </article>
+              <article>
+                <span>U</span>
+                <img class="Loader" src="images/Loader.svg" alt="">
+                <p>Loading..</p>
+              </article>
+              <article>
+                <span>V</span>
+                <img class="Loader" src="images/Loader.svg" alt="">
+                <p>Loading..</p>
+              </article>
+              <article>
+                <span>W</span>
+                <img class="Loader" src="images/Loader.svg" alt="">
+                <p>Loading..</p>
+              </article>
+              <article>
+                <span>X</span>
+                <img class="Loader" src="images/Loader.svg" alt="">
+                <p>Loading..</p>
+              </article>
+              <article>
+                <span>Y</span>
+                <img class="Loader" src="images/Loader.svg" alt="">
+                <p>Loading..</p>
+              </article>
+              <article>
+                <span>Z</span>
+                <img class="Loader" src="images/Loader.svg" alt="">
+                <p>Loading..</p>
+
+              </article>
+
+            </div>
+          </section>
+          <section id="section03">
+            <p>This is section 3</p>
+
+
+          </section>
+        </main>
+      </div>
+    </body>
+</html>

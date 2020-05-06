@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2591.57 2591.57">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d3cfc7;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #9e9d9d;
+      }
+
+      .cls-3 {
+        fill: #353535;
+      }
+
+      .cls-4, .cls-8 {
+        stroke: #515151;
+        stroke-width: 3px;
+      }
+
+      .cls-4, .cls-8, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        fill: #727272;
+      }
+
+      .cls-6 {
+        fill: #0bf8f9;
+      }
+
+      .cls-7 {
+        fill: #e25346;
+      }
+
+      .cls-8, .cls-9 {
+        fill: none;
+      }
+
+      .cls-9 {
+        stroke: #262324;
+      }
+    </style>
+  </defs>
+  <g id="Calque_2" data-name="Calque 2">
+    <g id="Calque_1-2" data-name="Calque 1">
+      <g>
+        <polygon class="cls-1" points="2349.08 1387.17 2349.11 1389.59 2349.24 1394.83 2349.14 1397.67 2348.84 1401.04 2348.26 1404.5 2347.57 1407.47 2346.86 1409.87 2346.23 1411.76 2344.62 1415.65 2335.84 1415.79 2335.02 1414.11 2333.91 1411.44 2332.64 1407.7 2331.78 1404.49 2331.07 1400.75 2330.78 1398.26 2330.63 1396.09 2330.49 1387.54 2330.27 1385.15 2349.22 1384.85 2349.08 1387.17"/>
+        <polygon class="cls-2" points="2324.51 1293.15 2352.09 1292.72 2349.22 1384.85 2330.27 1385.15 2324.51 1293.15"/>
+        <polygon class="cls-2" points="2251.12 1266.68 2318.57 1248.55 2355.45 1247.97 2424.4 1262.17 2424.87 1291.82 2251.55 1294.53 2251.12 1266.68"/>
+        <rect class="cls-2" x="2422.49" y="1261.59" width="4.55" height="90.53" transform="translate(4869.67 2575.62) rotate(179.1)"/>
+        <rect class="cls-2" x="2406.5" y="1261.84" width="4.55" height="90.53" transform="translate(4837.7 2576.37) rotate(179.1)"/>
+        <rect class="cls-2" x="2267.78" y="1264.01" width="4.55" height="90.53" transform="translate(4560.31 2582.88) rotate(179.1)"/>
+        <rect class="cls-2" x="2251.79" y="1264.26" width="4.55" height="90.53" transform="matrix(-1, 0.02, -0.02, -1, 4528.33, 2583.63)"/>
+        <rect class="cls-2" x="2322.73" y="1243.68" width="30.62" height="19.26" transform="translate(4695.41 2469.9) rotate(179.1)"/>
+        <polygon class="cls-3" points="2331.29 1302.18 2345.6 1301.96 2344.5 1323.95 2333.08 1324.13 2331.29 1302.18"/>
+        <polyline class="cls-4" points="2353.72 1248 2353.87 1285.98 2352.09 1292.72"/>
+        <polyline class="cls-4" points="2321.49 1248.51 2322.53 1286.47 2324.51 1293.15"/>
+        <rect class="cls-3" x="2331.19" y="1292.36" width="14.31" height="6.56" transform="translate(4696.68 2554.54) rotate(179.1)"/>
+        <rect class="cls-3" x="2330.96" y="1277.4" width="14.31" height="6.56" transform="matrix(-1, 0.02, -0.02, -1, 4695.97, 2524.62)"/>
+        <rect class="cls-5" x="2330.67" y="1248.25" width="14.31" height="28.55" transform="translate(4695.12 2488.33) rotate(179.1)"/>
+        <rect class="cls-5" x="2344.57" y="1224" width="8.96" height="24.07" transform="translate(4717.15 2435.17) rotate(179.1)"/>
+        <rect class="cls-5" x="2321.3" y="1224.36" width="8.96" height="24.07" transform="translate(4670.62 2436.26) rotate(179.1)"/>
+        <rect class="cls-6" x="2321.1" y="1221.77" width="8.96" height="2.59" transform="translate(4670 2409.6) rotate(179.1)"/>
+        <rect class="cls-6" x="2344.36" y="1221.4" width="8.96" height="2.59" transform="translate(4716.52 2408.51) rotate(179.1)"/>
+        <rect class="cls-7" x="2373.9" y="1283.61" width="48.29" height="8.39" transform="translate(4815.94 2537.94) rotate(179.1)"/>
+        <rect class="cls-7" x="2251.48" y="1285.53" width="48.29" height="8.39" transform="translate(4571.15 2543.68) rotate(179.1)"/>
+        <line class="cls-8" x1="2339.75" y1="1385" x2="2338.87" y2="1328.81"/>
+        <rect class="cls-1" x="2373.77" y="1275.87" width="48.29" height="7.75" transform="matrix(-1, 0.02, -0.02, -1, 4815.56, 2521.81)"/>
+        <rect class="cls-1" x="2251.36" y="1277.78" width="48.29" height="7.75" transform="translate(4570.77 2527.56) rotate(179.1)"/>
+        <polyline class="cls-8" points="2422.25 1291.62 2421.9 1269.4 2355.61 1258.27"/>
+        <polyline class="cls-8" points="2319.73 1258.83 2255.8 1275.54 2256.09 1294.22"/>
+      </g>
+      <rect class="cls-9" x="0.5" y="0.5" width="2590.57" height="2590.57"/>
+    </g>
+  </g>
+</svg>

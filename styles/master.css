@@ -196,13 +196,6 @@ article img {
   transition: opacity 0.5s ease-in;
 }
 
-img.Loader {
-  width: 100px;
-  transform: translateX(-50%) translateY(-50%);
-  top: 25%;
-  left: 25%;
-
-}
 
 article p {
   font-size: 14px;
@@ -229,6 +222,14 @@ article:hover span {
 }
 
 /* Loading Abécédaire */
+
+img.Loader {
+  width: 100px;
+  transform: translateX(-50%) translateY(-50%);
+  top: 25%;
+  left: 25%;
+
+  }
 
 .Loader {
     animation: rotation01 3s infinite linear;

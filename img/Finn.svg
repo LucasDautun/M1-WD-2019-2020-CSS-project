@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1011.51 1019.08">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f3bb4e;
+      }
+
+      .cls-2 {
+        opacity: 0.31;
+        fill: url(#Dégradé_sans_nom_9);
+      }
+
+      .cls-3 {
+        fill: #512d14;
+      }
+
+      .cls-4 {
+        fill: #efa28a;
+      }
+
+      .cls-5 {
+        fill: #725b58;
+      }
+
+      .cls-6 {
+        fill: #593e33;
+      }
+
+      .cls-7 {
+        fill: #060908;
+      }
+
+      .cls-8 {
+        fill: #1e1f21;
+      }
+    </style>
+    <linearGradient id="Dégradé_sans_nom_9" data-name="Dégradé sans nom 9" x1="365.29" y1="300.95" x2="815.74" y2="666.58" gradientUnits="userSpaceOnUse">
+      <stop offset="0"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Calque_2" data-name="Calque 2">
+    <g id="Calque_1-2" data-name="Calque 1">
+      <g>
+        <rect class="cls-1" width="1011.09" height="1011.09"/>
+        <polyline class="cls-2" points="451.29 593.91 714.74 1019.08 1011.51 1019.08 1011.51 391 608.98 231.17"/>
+        <polygon class="cls-3" points="661.19 500.23 661.19 500.67 661.15 500.74 661.19 500.23"/>
+        <path class="cls-3" d="M661.52,494.29l-.33,5.85A53.78,53.78,0,0,1,661.52,494.29Z"/>
+        <path class="cls-4" d="M661.52,494.29l-.33,5.85A53.78,53.78,0,0,1,661.52,494.29Z"/>
+        <path class="cls-5" d="M491.69,287.43c12.14,1.5,28.28,8.4,38.69,8.69V626c-41.87,0-79.64-24.33-106.43-63.4-16-23.32-23.64-55.42-30.32-87.21V371.65l33.44-75.53Z"/>
+        <polygon class="cls-4" points="661.19 500.23 661.19 500.67 661.15 500.74 661.19 500.23"/>
+        <path class="cls-4" d="M661.52,494.29l-.33,5.85A53.78,53.78,0,0,1,661.52,494.29Z"/>
+        <polygon class="cls-3" points="661.19 500.23 661.19 500.67 661.15 500.74 661.19 500.23"/>
+        <ellipse class="cls-5" cx="386.73" cy="429.08" rx="14.86" ry="46.29"/>
+        <path class="cls-6" d="M569.07,287.43c-12.14,1.5-28.28,8.4-38.69,8.69V626c41.87,0,79.64-24.33,106.43-63.4,16-23.32,23.64-55.42,30.32-87.21V371.65l-33.44-75.53Z"/>
+        <ellipse class="cls-6" cx="674.03" cy="429.08" rx="14.86" ry="46.29"/>
+        <path class="cls-7" d="M664.74,417.5,631.34,319s-70.15-20-100.22,0c-1.67,3.34,0-101.89,0-101.89S714.85,198.7,664.74,417.5Z"/>
+        <path class="cls-8" d="M398.51,417.5,431.91,319s70.15-20,100.22,0c1.67,3.34,0-101.89,0-101.89S348.4,198.7,398.51,417.5Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
